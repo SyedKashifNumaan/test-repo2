@@ -1,0 +1,6 @@
+
+echo "hello"
+echo "My name is Kashif Numaan"
+echo "Im from Banglore"
+echo "I love Animals"
+
